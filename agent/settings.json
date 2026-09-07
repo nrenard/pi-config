@@ -1,0 +1,17 @@
+{
+  "defaultModel": "deepseek-v4-flash",
+  "defaultProvider": "deepseek",
+  "packages": [
+    "npm:pi-web-access",
+    "npm:pi-subagents",
+    "npm:pi-codex-goal",
+    "npm:@hypabolic/pi-hypa"
+  ],
+  "skills": [
+    "/Users/nicolasrenard/.config/opencode/skills"
+  ],
+  "enableSkillCommands": true,
+  "lastChangelogVersion": "0.85.1",
+  "theme": "dark",
+  "hideThinkingBlock": true
+}
